@@ -1,0 +1,37 @@
+/* .card{
+    padding: 1rem;
+    margin: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+    text-align: center;
+   padding: 1rem;
+} */
+  .back{
+    background-image: url("https://www.teahub.io/photos/full/41-419298_background-image-for-restaurant-website.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 89.1vh;
+  }
+.text {
+  text-align: center;
+  position: relative
+  ;
+ color: #e0edf4c0;
+  font-weight: 500;
+  top: 15rem;
+    font-size: 90px;
+}
+.btn {
+   
+    margin-left: 52rem;
+    margin-top: 15rem;
+  
+   background-color: transparent;
+    border-top: 50px solid transparent;
+    border-left: 100px solid #e0edf4c0;
+    border-bottom: 50px solid transparent;
+   
+}
+.btn:hover {
+    opacity: 0.7;
+}

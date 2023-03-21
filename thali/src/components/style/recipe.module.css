@@ -1,0 +1,29 @@
+.back {
+    /* background-image: url("https://www.diabetes.ie/wp-content/uploads/2014/10/Recipes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98.9vw;
+    height: 100vh; */
+    background-color: #f9f6f4;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+ 
+   
+  
+}
+.imgs {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+      width: 40rem;
+      height: 30rem;
+     
+     margin: 2rem;
+}
+.imgs:hover{
+      cursor: pointer;
+    opacity: 0.6;
+   
+
+}

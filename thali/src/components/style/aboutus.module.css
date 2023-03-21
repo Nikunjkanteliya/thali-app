@@ -1,0 +1,21 @@
+.back {
+    background-image: url("https://img.freepik.com/premium-photo/food-background-with-tomatoes-lemon-sauce-caviar-nd-with-copyspace_157927-3490.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main{
+   font-size: 22.5px; 
+ text-align: center;
+ width: 65rem;
+ margin-left: 22rem;
+ color: #e0edf4d7;
+
+   
+
+}
+h3,h2,footer{
+    color: #eca71e;
+}

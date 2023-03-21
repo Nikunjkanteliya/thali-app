@@ -1,0 +1,51 @@
+  img{
+    width: 20rem;
+    height: 20rem;
+    margin: 5rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    
+} 
+
+ .main {
+
+
+
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    
+   
+    
+}
+
+
+
+
+
+
+
+.btn{
+    position: relative;
+    left: -25rem;
+    top: 12rem;
+    margin: 1rem;
+/* 
+    width: rem; */
+    width: 8rem;
+    text-align: center;
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 15px;
+    background-color:#e23744;
+    color: #fcefef;
+   
+  font-weight: 900;
+}
+button:hover{
+
+    opacity: 0.7;
+}
+
+
